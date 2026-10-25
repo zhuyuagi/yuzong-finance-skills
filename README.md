@@ -27,10 +27,10 @@
 
 ## 镜像仓库
 
-- Gitee（主，国内访问快）：https://gitee.com/ZhuYu-Aim/yuzong-finance-skills
-- GitHub（镜像）：https://github.com/zhuyuagi/yuzong-finance-skills
+- Gitee（主，国内访问快，待 2FA 开启后上线）：https://gitee.com/jakezhu888/yuzong-finance-skills
+- GitHub（镜像，已上线）：https://github.com/zhuyuagi/yuzong-finance-skills
 
-两平台内容完全同步，任选其一使用即可。
+> Gitee 当前账号因安全评级需在「设置 → 安全设置」开启两步验证（2FA）后才能建公开仓库；开启后内容会自动同步。GitHub 镜像已上线，可先使用。
 
 ## 如何获取完整版（闭源核心）
 
